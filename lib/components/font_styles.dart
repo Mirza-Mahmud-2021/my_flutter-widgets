@@ -83,7 +83,7 @@ const poppinsRegularDefault = TextStyle(
     fontSize: Dimensions.fontDefault,
     fontWeight: FontWeight.w400
 );
-const poppinsRegularSemiBold = TextStyle(
+const poppinsRegularMedium = TextStyle(
     color: AppColor.colorBlack,
     fontFamily: "Poppins",
     fontSize: Dimensions.fontMedium,
@@ -139,7 +139,7 @@ const poppinsMediumDefault = TextStyle(
     fontSize: Dimensions.fontDefault,
     fontWeight: FontWeight.w500
 );
-const poppinsMediumMedium = TextStyle(
+const poppinsMedium = TextStyle(
     color: AppColor.colorBlack,
     fontFamily: "Poppins",
     fontSize: Dimensions.fontMedium,
